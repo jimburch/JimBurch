@@ -2,11 +2,11 @@
 
 ## Full Stack Engineer & Web Developer
 
-- 🌵  Living in Phoenix, Arizona
-- 🏎️  Currently working on a Formula 1 fantasy app
-- 👨‍💻  Searching for a full-time developer role #OpenToWork
-- 🪴  2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
-- ⛰️  Fun fact: I love the outdoors and have a [hiking and camping blog](https://9to5hiker.com)
+- 🌵 &nbsp; Living in Phoenix, Arizona
+- 🏎️ &nbsp; Currently working on a Formula 1 fantasy app
+- 👨‍💻 &nbsp; Searching for a full-time developer role #OpenToWork
+- 🪴 &nbsp; 2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
+- ⛰️ &nbsp; Fun fact: I love the outdoors and have a [hiking and camping blog](https://9to5hiker.com)
 
 ### Let's Connect
 
@@ -25,3 +25,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+---
+[linkedin]: https://www.linkedin.com/in/jimburch1/
