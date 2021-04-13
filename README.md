@@ -2,15 +2,15 @@
 
 ## Full Stack Engineer & Web Developer
 
-- 🌵 Living in Phoenix, Arizona
-- 🏎️ Currently working on a Formula 1 fantasy app
-- 👨‍💻 Searching for a full-time developer role #OpenToWork
-- 🪴 2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
-- ⛰️ Fun fact: I love the outdoors and have a hiking and camping blog](https://9to5hiker.com)
+- 🌵  Living in Phoenix, Arizona
+- 🏎️  Currently working on a Formula 1 fantasy app
+- 👨‍💻  Searching for a full-time developer role #OpenToWork
+- 🪴  2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
+- ⛰️  Fun fact: I love the outdoors and have a [hiking and camping blog](https://9to5hiker.com)
 
 ### Let's Connect
 
-<img align="left" alt="Jim Burch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jim Burch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages & Tools
 
