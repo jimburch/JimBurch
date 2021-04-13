@@ -8,9 +8,13 @@
 - 🪴 &nbsp; 2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
 - ⛰️ &nbsp; Fun fact: I love the outdoors and have a [hiking and camping blog](https://9to5hiker.com)
 
+<br />
+
 ### Let's Connect
 
 [<img align="left" alt="Jim Burch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ### Languages & Tools
 
