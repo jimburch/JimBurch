@@ -3,7 +3,7 @@
 ## Full Stack Engineer & Web Developer
 
 - 🌵 &nbsp; Living in Phoenix, Arizona
-- 🏎️ &nbsp; Currently working on a Formula 1 fantasy app
+- 🏎️ &nbsp; Currently working on a Formula 1 fantasy app and building my own secure Linux server on a Raspberry Pi 🖥️
 - 👨‍💻 &nbsp; Searching for a full-time developer role #OpenToWork
 - 🪴 &nbsp; 2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
 - ⛰️ &nbsp; Fun fact: I love the outdoors and have a [hiking and camping blog](https://9to5hiker.com)
