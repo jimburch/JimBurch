@@ -5,7 +5,7 @@
 - 🌵 &nbsp; Living in Phoenix, Arizona
 - 👨‍💻 &nbsp; Currently grinding full-time in the sports betting industry
 - ⚔️  &nbsp; Building a Discord bot for my New World guild
-- 🪴 &nbsp; 2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
+- 🌱 &nbsp; 2021 Goals: Continue mastering the fundamentals and maintain a growth mindset
 - ⛰️ &nbsp; Fun fact: I love the outdoors and have a [hiking and camping blog](https://9to5hiker.com)
 
 ### Let's Connect
