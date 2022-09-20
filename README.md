@@ -2,10 +2,10 @@
 
 ## Full Stack Engineer & Web Developer
 
-- 🌵 &nbsp; Living in Phoenix, Arizona
-- 👨‍💻 &nbsp; Currently grinding full-time in the sports betting industry
-- ⚔️  &nbsp; Building out [my portfolio](https://www.jimburch.com)
-- 🌱 &nbsp; 2022 Goals: Learn a second programming language
+🌵 &nbsp; Living in Phoenix, Arizona
+👨‍💻 &nbsp; Currently grinding full-time in the sports betting industry
+⚔️  &nbsp; Building out [my portfolio](https://www.jimburch.com)
+🌱 &nbsp; 2022 Goals: Learn a second programming language
 
 ### Let's Connect
 
